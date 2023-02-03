@@ -2,11 +2,11 @@
 [![](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
 
 ### Description
-Project comprise implementation of logistic regression algorithm and data needed to feed algorithm.
+Project comprises implementation of logistic regression algorithm and data needed to feed algorithm.
 The program creates an iris species classifier.
 
 ### Technologies
-Project is created with:
+The project was created with:
 - Python 3.10
 - NumPy 1.22.0
 - Pandas 1.4.2
