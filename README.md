@@ -1,5 +1,5 @@
 # Logistic Regression
-[![](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
+[![](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ### Description
 Project comprises implementation of logistic regression algorithm and data needed to feed algorithm.
